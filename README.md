@@ -1,2 +1,2 @@
 # leap-year-checker
-Hello World
+Simple Program that check the leap year
